@@ -203,13 +203,5 @@ It will take default fonts provided in the builder. If we want different Emoji f
                 });
 ```
 For more detail check [Saving](https://github.com/burhanrashid52/PhotoEditor/wiki/Saving)
-    
-## How to contribute?
-* Check out contribution guidelines 👉[CONTRIBUTING.md](https://github.com/burhanrashid52/PhotoEditor/blob/master/CONTRIBUTING.md)
-
-
-## What's next?
-- Croping Image with Custom Aspect ratio and more customization text/emoji/stickers
-
 
 
